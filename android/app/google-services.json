@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "569332267623",
+    "firebase_url": "https://dating-48687-default-rtdb.firebaseio.com",
+    "project_id": "dating-48687",
+    "storage_bucket": "dating-48687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569332267623:android:23429ebccbd3860862f2c2",
+        "android_client_info": {
+          "package_name": "com.example.guide_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsrpoZun2Fyuodj0LnfkicsIqD5YoguWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569332267623:android:ba6000937cefae1062f2c2",
+        "android_client_info": {
+          "package_name": "com.example.soulmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsrpoZun2Fyuodj0LnfkicsIqD5YoguWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
